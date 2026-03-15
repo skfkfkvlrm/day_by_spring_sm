@@ -5,6 +5,7 @@ target/
 !**/src/test/**/target/
 /data/
 CLAUDE.md
+.env
 
 ### STS ###
 .apt_generated
